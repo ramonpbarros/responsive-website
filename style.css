@@ -6,10 +6,17 @@
 
 body{
     background-color: snow;
+    padding-bottom:60px;
+}
+
+#container {
+   min-height:100%;
+   position:relative;
 }
 
 .cardContent {
     padding-top: 90px;
+    
 }
 
 .cardPadding {
@@ -33,7 +40,6 @@ body{
     color: snow;
     text-align: center;
     padding-top: 10px;
-      
 }
 
 .position {
