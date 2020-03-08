@@ -56,11 +56,17 @@ body{
  }
 
 @media screen and (max-width: 640px) {
+
+    * {
+        box-sizing: border-box;
+        padding: 0;
+        margin: 0;
+    }
+
     .floatLeft{
         float: none;
-        padding-right: 20px;
-        margin-left: 20%;
-        margin-right: 20%;
+        padding-left: 20px;
+        margin: 0 auto;
         
     }
 
