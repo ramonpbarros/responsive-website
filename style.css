@@ -41,9 +41,7 @@ body{
     height: 50px;
     background-color: #353A41;
     color: snow;
-    text-align: center;
-    padding-top: 10px;
-    font-family: 'Montserrat', sans-serif;
+    padding-top: 15px;
 }
 
 .position {
@@ -69,6 +67,20 @@ body{
  .fonts {
      font-family: 'Courier New', Courier, monospace;
  }
+
+ .fa {
+    font-size: 50px;
+    width: 25px;
+    padding-top: 3px;
+    text-decoration: none;
+    border-radius: 50%;
+    color: snow;
+  }
+
+  #footerCopyright {
+    font-family: 'Montserrat', sans-serif;
+    
+  }
 
  /* Iphone X media screen */
 @media screen and (min-device-width : 375px) and (max-device-width: 812px) and (orientation : portrait) {
