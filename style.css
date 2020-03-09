@@ -7,7 +7,6 @@
 body{
     background-color: snow;
     padding-bottom:60px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .header {
@@ -70,6 +69,7 @@ body{
  .fonts {
      font-family: 'Courier New', Courier, monospace;
  }
+
  /* Iphone X media screen */
 @media screen and (min-device-width : 375px) and (max-device-width: 812px) and (orientation : portrait) {
 
@@ -77,6 +77,11 @@ body{
         box-sizing: border-box;
         padding: 0;
         margin: 0;
+    }
+
+    .header {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 20px;
     }
 
     .paddingTop {
@@ -101,6 +106,10 @@ body{
         left: 2%;
         opacity: 90%;
     }
+
+    .fonts {
+        font-family: 'Courier New', Courier, monospace;
+    }
 }
 @media screen and (min-device-width : 375px) and (max-device-width: 812px) and (orientation : landscape) {
 
@@ -108,6 +117,11 @@ body{
         box-sizing: border-box;
         padding: 0;
         margin: 0;
+    }
+
+    .header {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 20px;
     }
 
     .paddingTop {
@@ -136,7 +150,11 @@ body{
         opacity: 90%;
     }
 
+    .fonts {
+        font-family: 'Courier New', Courier, monospace;
+    }
 
+}
 
 @media screen and (min-device-width : 414px) and (max-device-width: 736px) {
 
@@ -144,6 +162,11 @@ body{
         box-sizing: border-box;
         padding: 0;
         margin: 0;
+    }
+
+    .header {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 20px;
     }
 
     .paddingTop {
@@ -171,6 +194,10 @@ body{
         height: 50px;
         opacity: 90%;
     }
+
+    .fonts {
+        font-family: 'Courier New', Courier, monospace;
+    }
 }
 
 @media screen and (min-device-width: 376px) and (max-device-width: 597px) {
@@ -179,6 +206,11 @@ body{
         box-sizing: border-box;
         padding: 0;
         margin: 0;
+    }
+
+    .header {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 20px;
     }
 
     .paddingTop {
@@ -205,5 +237,9 @@ body{
         width: 55%;
         height: 50px;
         opacity: 90%;
+    }
+
+    .fonts {
+        font-family: 'Courier New', Courier, monospace;
     }
 }
