@@ -7,6 +7,12 @@
 body{
     background-color: snow;
     padding-bottom:60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.header {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
 }
 
 .paddingTop {
@@ -38,6 +44,7 @@ body{
     color: snow;
     text-align: center;
     padding-top: 10px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .position {
@@ -60,6 +67,9 @@ body{
      padding:25px 25px 25px 25px;
  }
 
+ .fonts {
+     font-family: 'Courier New', Courier, monospace;
+ }
  /* Iphone X media screen */
 @media screen and (min-device-width : 375px) and (max-device-width: 812px) and (orientation : portrait) {
 
