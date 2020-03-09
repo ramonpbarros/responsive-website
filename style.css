@@ -90,7 +90,7 @@ body{
 
     .floatLeft{
         float: none;
-        padding-left: 0px;
+        padding-left: 20px;
         margin: 0 auto;
         
     }
