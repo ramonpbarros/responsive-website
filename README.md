@@ -1,56 +1,54 @@
-# Project Title
-One Paragraph of project description goes here
+# Responsive Portfolio
+> Responsive website with design that ensures that web applications render well on a variety of devices or screen sizes. 
 
-# Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Features](#features)
+* [Status](#status)
+* [Inspiration](#inspiration)
+* [Contact](#contact)
 
-# Prerequisites
-What things you need to install the software and how to install them
+## General info
+This project uses the Bootstrap CSS Framework as well its own css file with a purpose of creating a mobile responsive portfolio. Bootstrap's grid system (containers, rows, and columns). The motivation to start this project was to showcase html and css skills that accomplish the main goal of creating a responsive portfolio. 
 
-# Give examples
-Installing
-A step by step series of examples that tell you how to get a development env running
+## Technologies
+* HTML 5
+* CSS
+* Bootstrap 4.4
 
-Say what the step will be
+## Setup
+Repository can be found here: [GitHub](https://github.com/ramonpbarros/responsive-website)
+Make sure to git clone repository and check out the code!
 
-# Give the example
-And repeat
+## Code Examples
+Examples of Bootstrap's grid system usage:
+`   <div class="row row-cols-1 row-cols-md-2 row-cols-md-2"> `
+`       <div class="col mb-4">`
+`          <img`
+`          src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_2sA3Ua8MZg1pdAqPjAuYSGIXacGEewnctb3I5SA9Bv_snxXI"`
+`          class="img" alt="Professional">`
+`       </div>`
+`   </div>`
 
-until finished
-End with an example of getting some data out of the system or using it for a little demo
+## Features
+List of features:
+* About me tab, responsive.
+* Portfolio tab with grid containing 5 images, responsive.
+* Contact tab with Bootstrap's form, responsive.  
 
-# Running the tests
-Explain how to run the automated tests for this system
+To-do list for future development:
+* Add banners to images on portfolio's tab.
+* Give action on click to these banners and direct user to different projects.
+* Get contact form to actually work.
 
-# Break down into end to end tests
-Explain what these tests test and why
+## Status
+Project is: _in progress_
+I'll be adding more features to this website the demonstrate good responsiviness throughout different screen sizes
 
-# Give an example
-And coding style tests
-Explain what these tests test and why
+## Inspiration
+Project inspired by UCSD Coding Bootcamp, based on first week of course, applying HTML and CSS skills.
 
-# Give an example
-Deployment
-Add additional notes about how to deploy this on a live system
-
-Built With
-Dropwizard - The web framework used
-Maven - Dependency Management
-ROME - Used to generate RSS Feeds
-Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
-
-Versioning
-We use SemVer for versioning. For the versions available, see the tags on this repository.
-
-# Authors
-Billie Thompson - Initial work - PurpleBooth
-See also the list of contributors who participated in this project.
-
-# License
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
-# Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
+## Contact
+Created by [@ramonpbarros](https://github.com/ramonpbarros) - feel free to contact me!
