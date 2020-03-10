@@ -3,6 +3,7 @@
 
 ## Table of contents
 * [General info](#general-info)
+* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -11,7 +12,11 @@
 * [Contact](#contact)
 
 ## General info
-This project uses the Bootstrap CSS Framework as well as its own css file with a purpose of creating a mobile responsive portfolio. Examples of Bootstrap's grid system (containers, rows, and columns) can be found in it. The motivation to start this project was to showcase HTML and CSS skills that accomplish the main goal of creating a responsive portfolio. 
+This project uses the Bootstrap CSS Framework as well as its own css file with a purpose of creating a mobile responsive portfolio. Examples of Bootstrap's grid system (containers, rows, and columns) can be found in it. The motivation to start this project was to showcase HTML and CSS skills that accomplish the main goal of creating a responsive portfolio.
+
+## Screenshots
+![Example screenshot one](./img/screenshotwide.png)
+![Example screenshot two](./img/screenshotmobile.png)
 
 ## Technologies
 * HTML 5
@@ -43,7 +48,7 @@ To-do list for future development:
 
 ## Status
 Project is: _in progress_
-I'll be adding more features to this website the demonstrate good responsiviness throughout different screen sizes
+I'll be adding more features to this website the demonstrate good responsiviness throughout different screen sizes.
 
 ## Inspiration
 Project inspired by UCSD Coding Bootcamp, based on first week of course, applying HTML and CSS skills.
