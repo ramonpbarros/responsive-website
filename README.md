@@ -11,7 +11,7 @@
 * [Contact](#contact)
 
 ## General info
-This project uses the Bootstrap CSS Framework as well its own css file with a purpose of creating a mobile responsive portfolio. Bootstrap's grid system (containers, rows, and columns). The motivation to start this project was to showcase html and css skills that accomplish the main goal of creating a responsive portfolio. 
+This project uses the Bootstrap CSS Framework as well as its own css file with a purpose of creating a mobile responsive portfolio. Examples of Bootstrap's grid system (containers, rows, and columns) can be found in it. The motivation to start this project was to showcase HTML and CSS skills that accomplish the main goal of creating a responsive portfolio. 
 
 ## Technologies
 * HTML 5
@@ -19,16 +19,14 @@ This project uses the Bootstrap CSS Framework as well its own css file with a pu
 * Bootstrap 4.4
 
 ## Setup
-Repository can be found here: [GitHub](https://github.com/ramonpbarros/responsive-website)
+Repository can be found here: [GitHub/ramonpbarros](https://github.com/ramonpbarros/responsive-website)
 Make sure to git clone repository and check out the code!
 
 ## Code Examples
 Examples of Bootstrap's grid system usage:
 `   <div class="row row-cols-1 row-cols-md-2 row-cols-md-2"> `
 `       <div class="col mb-4">`
-`          <img`
-`          src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_2sA3Ua8MZg1pdAqPjAuYSGIXacGEewnctb3I5SA9Bv_snxXI"`
-`          class="img" alt="Professional">`
+`          <img src="#" class="img" alt="...">`
 `       </div>`
 `   </div>`
 
@@ -36,12 +34,12 @@ Examples of Bootstrap's grid system usage:
 List of features:
 * About me tab, responsive.
 * Portfolio tab with grid containing 5 images, responsive.
-* Contact tab with Bootstrap's form, responsive.  
+* Contact tab using Bootstrap's form, responsive.  
 
 To-do list for future development:
 * Add banners to images on portfolio's tab.
 * Give action on click to these banners and direct user to different projects.
-* Get contact form to actually work.
+* Get input from contact form and use it.
 
 ## Status
 Project is: _in progress_
