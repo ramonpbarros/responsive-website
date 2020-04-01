@@ -32,10 +32,29 @@ body{
 }
 
 /* Gives padding on all sides to card's image on index.html */
-.img {
+.img2 {
+    height: 220px;
+    width: 350px;
      padding:25px 25px 25px 25px;
 }
 
+.img2:hover {
+    border: solid transparent;
+}
+
+.button {
+    border-radius: 5px;
+    background-color:snow;
+    color: #353A41;
+}
+
+.button:hover {
+    background-color: grey;
+    color: snow;
+}
+ a {
+     color: snow;
+ }
 /* Makes sure the card's content on contact.html is not touching top or bottom of card */
 .contactCardPadding {
     padding-top: 20px;
@@ -63,6 +82,7 @@ body{
     border-radius: 50%;
     color: snow;
   }
+
 
 /* media screen */
 @media screen and (max-device-width: 812px) {
