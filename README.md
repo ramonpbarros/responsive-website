@@ -48,7 +48,7 @@ To-do list for future development:
 
 ## Status
 Project is: _in progress_
-Checkout deployed version [here](https://ramonpbarros.github.io/responsive-website/)
+* Checkout deployed version [here](https://ramonpbarros.github.io/responsive-website/).
 
 ## Inspiration
 Project inspired by UCSD Coding Bootcamp, based on first week of course, applying HTML and CSS skills.
