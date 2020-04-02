@@ -37,6 +37,11 @@ body{
     width: 350px;
      padding:25px 25px 25px 25px;
 }
+.imgIndex {
+    height: 270px;
+    width: 350px;
+     padding:25px 25px 25px 25px;
+}
 
 .img2:hover {
     border: solid transparent;
